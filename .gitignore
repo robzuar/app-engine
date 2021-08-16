@@ -1,0 +1,18 @@
+
+# IDE's files
+.idea/
+
+# Dependency directories
+node_modules
+package-lock.json
+
+# dotenv environment variables file
+config/config.env
+config/config.prod.env
+config/config.dev.env
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional npm cache directory
+.npm
